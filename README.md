@@ -47,7 +47,9 @@ npm test
 
 <a href="https://www.linkedin.com/in/hein-tay-zar/">LinkedIn</a>
 
+## About me
 
+I enjoy <b>coding challenges</b>. If you want to `compete` or do `pair programming`, you are welcome. My appetite is in Javascript and PHP. My dream is to be an AI engineer and I am currently on the way to a professional web developer with HTML, CSS and JavaScript.
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!

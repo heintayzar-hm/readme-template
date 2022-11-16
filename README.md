@@ -20,6 +20,5 @@ const eliVillalejos = {
 }
 
 ### Get To Know 
-<script>
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/hein-tay-zar/)
-</script>
+Compete || PairProgramming ===========>
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-brightgreen)](https://leetcode.com/heintayzar-hm/)

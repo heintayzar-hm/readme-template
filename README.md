@@ -21,4 +21,4 @@ const eliVillalejos = {
 
 ### Get To Know 
 Compete || PairProgramming ===========>
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-brightgreen)](https://leetcode.com/heintayzar-hm/)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-brightgreen)](https://leetcode.com/heintayzar-hm/)]

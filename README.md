@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/hein-tay-zar/">LinkedIn</a>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Hein-Tay-Zar?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hein-tay-zar/)](https://www.linkedin.com/in/hein-tay-zar/)
+[![Linkedin Badge](https://img.shields.io/badge/-badge-blue&link=https://www.linkedin.com/in/hein-tay-zar/)](https://www.linkedin.com/in/hein-tay-zar/)
 [![Twitter Badge](https://img.shields.io/badge/-@hein-tay-zar?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/heintayzarhm)](https://twitter.com/heintayzarhm)
 ## About me
 

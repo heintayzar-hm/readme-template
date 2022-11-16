@@ -19,8 +19,8 @@ const eliVillalejos = {
   challenge: "I am honing my Frontend skills(animation)",
 }
 
-### Get To Know 
-<p><em>Remote Full-stack web developer</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+<h3> Get To Know </h3>
+<p><em>Compete || PAirProgramming =====></p>
 
-[![Twitter Badge](https://img.shields.io/badge/-LeetCode-brightgreen)](https://leetcode.com/heintayzar-hm/)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-brightgreen)](https://leetcode.com/heintayzar-hm/)
 

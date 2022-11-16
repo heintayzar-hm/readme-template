@@ -1,5 +1,6 @@
 
 <h2>Hi , I'm Hein Tay Zar</h2>
+<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
 <p><em>Remote Full-stack web developer </em><img src="https://media.giphy.com/media/HNeUrRCFsgFI5GbuQV/giphy.gif" width="50"></p>
 

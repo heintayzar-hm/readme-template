@@ -31,10 +31,8 @@ const eliVillalejos = {
 #### Top Repositories
 
 
-<a href="https://github.com/heintayzar-hm/github-readme-stats">
+<a href="https://github.com/heintayzar-hm/leaderboard-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heintayzar-hm&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/heintayzar-hm/heintayzar-hm.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heintayzar-hm&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+
 

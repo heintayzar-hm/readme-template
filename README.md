@@ -1,7 +1,7 @@
 
 <h2>Hi , I'm Hein Tay Zar</h2>
 
-<p><em>Remote Full-stack web developer</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+<p><em>Remote Full-stack web developer</em><img src="https://media.giphy.com/media/HNeUrRCFsgFI5GbuQV/giphy.gif" width="50"></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/hein-tay-zar/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-brightgreen)](https://twitter.com/heintayzarhm)

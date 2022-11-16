@@ -26,4 +26,15 @@ const eliVillalejos = {
 ### Contributions
   | <a href="https://github.com/heintayzar-hm/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=heintayzar-hm&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hein Tay Zar's github stats" /></a> | <a href="https://github.com/heintayzar-hm/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heintayzar-hm&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+  
+  
+#### Top Repositories
+
+
+<a href="https://github.com/heintayzar-hm/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heintayzar-hm&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/heintayzar-hm/heintayzar-hm.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heintayzar-hm&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 

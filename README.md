@@ -5,7 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/hein-tay-zar/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-brightgreen)](https://twitter.com/heintayzarhm)
-[![Email](https://img.shields.io/badge/-Email-yellow)](mailto:heintayzarhm@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-yellow)](mailto:heintayzarhm@gmail.com?subject=[GitHub]%20Source%20Github)
 <h3> Get To Know </h3>
 <p><em>Compete || PairProgramming =====></p>
 

@@ -1,6 +1,6 @@
 
 <h2>Hi , I'm Hein Tay Zar</h2>
-<img align='right' src="https://media.giphy.com/media/GKDbaCDb8z8FG/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/GKDbaCDb8z8FG/giphy.gif" width="230" style="border-radius: 10px">
 <p><em>Remote Full-stack web developer </em><img src="https://media.giphy.com/media/HNeUrRCFsgFI5GbuQV/giphy.gif" width="50"></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/hein-tay-zar/)

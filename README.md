@@ -1,7 +1,7 @@
 
 <h2>Hi , I'm Hein Tay Zar</h2>
 <img align='right' src="https://media.giphy.com/media/rrsEJXL7Ut8AM00zcB/giphy.gif" width="230" style="border-radius:20%">
-<p><em>Remote Full-stack web developer </em><img src="https://media.giphy.com/media/HNeUrRCFsgFI5GbuQV/giphy.gif" width="50"></p>
+<p><em>Remote Full-stack web developer, currently looking for open sources and Job opportunities </em><img src="https://media.giphy.com/media/HNeUrRCFsgFI5GbuQV/giphy.gif" width="50"></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/hein-tay-zar/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-brightgreen)](https://twitter.com/heintayzarhm)

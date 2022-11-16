@@ -49,7 +49,7 @@ npm test
 
 ## About me
 
-I enjoy <b>coding challenges</b>. If you want to `compete` or do `pair programming`, you are welcome. My appetite is in Javascript and PHP. My dream is to be an AI engineer and I am currently on the way to a professional web developer with HTML, CSS and JavaScript.
+I enjoy <b>coding challenges</b>. If you want to `compete` or do `pair programming`, you are welcome. My appetite is in <i>Javascript</i> and <i>PHP</i>. My dream is to be an <b>AI engineer</b> and I am currently on the way to a professional <b><i>Web developer with HTML, CSS and JavaScript.</i></b>
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!

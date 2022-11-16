@@ -6,6 +6,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/hein-tay-zar/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-brightgreen)](https://twitter.com/heintayzarhm)
 
+<h3> Get To Know </h3>
+<p><em>Compete || PAirProgramming =====></p>
+
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-brightgreen)](https://leetcode.com/heintayzar-hm/)
 
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> About me...  
 
@@ -19,8 +23,4 @@ const eliVillalejos = {
   challenge: "I am honing my Frontend skills(animation)",
 }
 
-<h3> Get To Know </h3>
-<p><em>Compete || PAirProgramming =====></p>
-
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-brightgreen)](https://leetcode.com/heintayzar-hm/)
 

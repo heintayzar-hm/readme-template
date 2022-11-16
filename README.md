@@ -23,8 +23,7 @@ const eliVillalejos = {
   challenge: "I am honing my Frontend skills(animation)",
 }
 ```
-### hi
-```text
+### Contributions
   | <a href="https://github.com/heintayzar-hm/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=heintayzar-hm&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hein Tay Zar's github stats" /></a> | <a href="https://github.com/heintayzar-hm/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heintayzar-hm&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 

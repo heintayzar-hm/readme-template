@@ -17,7 +17,9 @@ const eliVillalejos = {
   Tailwind CSS, Threejs, Gsap, Laravel, Nodejs],
   askMeAbout: [Coding Challange, AI ],
   challenge: "I am honing my Frontend skills(animation)",
-  getToKnow: [[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/hein-tay-zar/)
-]
 }
 
+### Get To Know 
+<script>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/hein-tay-zar/)
+</script>

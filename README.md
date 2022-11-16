@@ -11,7 +11,7 @@
 
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-brightgreen)](https://leetcode.com/heintayzar-hm/)
 
-### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> About me...  
+### <img src="https://media.giphy.com/media/Q2Rj7Hm9UooK3K02q9/giphy.gif" width="50"> About me...  
 
 ```javascript
 const eliVillalejos = {
